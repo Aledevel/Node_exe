@@ -1,6 +1,6 @@
-function Salut(nome){
-    console.log(`Greetings from ${nome}`)
+// function Salut(nome){
+//     console.log(`Greetings from ${nome}`)
 
-}
+// }
 
-module.exports= Salut
+// module.exports= Salut

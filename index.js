@@ -6,12 +6,12 @@
 
 // Uses require() to import the function from the other script
 // Calls the imported function
-const Saluta = require('./functions')
-const Nomi = require('./names')
+// const Saluta = require('./functions')
+// const Nomi = require('./names')
 
-Saluta(Nomi.name1)
-Saluta(Nomi.name2)
-Saluta(Nomi.name3)
-Saluta(Nomi.name4)
-Saluta("Ermanno er matto")
+// Saluta(Nomi.name1)
+// Saluta(Nomi.name2)
+// Saluta(Nomi.name3)
+// Saluta(Nomi.name4)
+// Saluta("Ermanno er matto")
 
