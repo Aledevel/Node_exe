@@ -14,3 +14,4 @@ Saluta(Nomi.name2)
 Saluta(Nomi.name3)
 Saluta(Nomi.name4)
 Saluta("Ermanno er matto")
+
