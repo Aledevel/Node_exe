@@ -2,7 +2,7 @@
 
 // Attach event listeners for each event and log out their data.
 
-alert("   ANCORA NON HAI ESEGUITO L'ESERCIZIO 7 !")
+
 
 const { EventEmitter } = require("node:events");
 
