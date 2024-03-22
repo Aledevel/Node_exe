@@ -25,12 +25,11 @@ let player_1 = "Tina";
 let player_z = "Jorge";
 let player_xz = "Julien";
 
-function Player(player,callback) {
-  callback(player);
+async function Player(player1,player2,player3,callback) {
+  await callback(player1);
+  await callback(player2);
+  await callback(player3);
 }
 
-Player(player_1, luckyDraw);
+Player(player_1,player_z,player_xz ,luckyDraw);
 
-Player(player_z, luckyDraw);
-
-Player(player_xz, luckyDraw);
